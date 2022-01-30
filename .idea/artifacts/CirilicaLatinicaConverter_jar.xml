@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CirilicaLatinicaConverter:jar">
+    <output-path>$PROJECT_DIR$/CLC_jar</output-path>
+    <root id="archive" name="CirilicaLatinicaConverter.jar">
+      <element id="module-output" name="CirilicaLatinicaConverter" />
+    </root>
+  </artifact>
+</component>
